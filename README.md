@@ -38,7 +38,6 @@ ____________________________________________________________________
 🔹 Sistema de Hamburgueria  
 🔹 Convite de Casamento  
 🔹 Sistema Financeiro  
-🔹 Projetos Java Desktop  
 
 ____________________________________________________________________
 📫 Contato
