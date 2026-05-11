@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou Wigner Felipe Pires 👋
 
-<!--
-**wignerpires/wignerpires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java em formação  
+🚀 Apaixonado por tecnologia e desenvolvimento de software  
+📚 Estudando Java, MySQL, Swing e Full Stack  
+📍 Paraná - Brasil
+____________________________________________________________________
+🚀 Tecnologias
 
-Here are some ideas to get you started:
+- Java
+- MySQL
+- Git & GitHub
+- Swing
+- HTML
+- CSS
+____________________________________________________________________
+📂 Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Sistema de Hamburgueria  
+🔹 Convite de casamento 
+🔹 Sistema Financeiro para Pequenas Empresas 
+____________________________________________________________________
+📫 Contatos
+
+📧 wignerpires@gmail.com  
+💼 LinkedIn: coloque seu link aqui  
+____________________________________________________________________
+⭐ Sempre buscando aprender e evoluir como desenvolvedor.
