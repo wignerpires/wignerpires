@@ -1,13 +1,5 @@
 # Olá, eu sou Wigner Felipe Pires 👋
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=github_dark"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wignerpires&layout=compact&theme=github_dark"/>
-
-</div>
-
 ____________________________________________________________________
 🚀 Sobre mim
 
@@ -61,7 +53,3 @@ ____________________________________________________________________
 </a>
 
 ____________________________________________________________________
-
-![Snake animation](https://raw.githubusercontent.com/wignerpires/wignerpires/output/github-contribution-grid-snake.svg)
-
-</div>
