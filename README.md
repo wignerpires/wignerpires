@@ -20,6 +20,7 @@ ________________________________________________________________________________
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    
 
   <img align="center" alt="MySQL" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -37,10 +38,10 @@ ________________________________________________________________________________
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 ________________________________________________________________________________________________________________________________________
-📂 Projetos
+ 📂 Projetos
 
 🔹 Sistema de Hamburgueria  
-🔹 Controle de Estoque  
+🔹 Convite de casamento 
 🔹 Sistema Financeiro  
 🔹 Projetos Java Desktop  
 ________________________________________________________________________________________________________________________________________
