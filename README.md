@@ -22,7 +22,7 @@ ____________________________________________________________________
 ____________________________________________________________________
 📫 Contatos
 
-📧 wignerpires@gmail.com  
+📧 E-mail: wignerpires@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/wigner-f-b78b52272 
 ____________________________________________________________________
 ⭐ Sempre buscando aprender e evoluir como desenvolvedor.
