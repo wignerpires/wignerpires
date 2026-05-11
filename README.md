@@ -1,9 +1,11 @@
 # Olá, eu sou Wigner Felipe Pires 👋
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wignerpires&layout=compact&langs_count=7&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wignerpires&layout=compact&theme=github_dark"/>
+
 </div>
 
 ____________________________________________________________________
