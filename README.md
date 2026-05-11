@@ -2,10 +2,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wignerpires&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-________________________________________________________________________________________________________________________________________
+____________________________________________________________________
 🚀 Sobre mim
 
 💻 Desenvolvedor Java em formação  
@@ -13,38 +14,40 @@ ________________________________________________________________________________
 🚀 Sempre buscando evoluir e aprender novas tecnologias  
 📍 Paraná - Brasil
 
-________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________
 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    
 
-  <img align="center" alt="MySQL" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Java" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-  <img align="center" alt="Git" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="MySQL" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-  <img align="center" alt="GitHub" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="Git" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <img align="center" alt="HTML" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="GitHub" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
-  <img align="center" alt="CSS" height="40" width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="HTML" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="50" width="60"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
 </div>
-________________________________________________________________________________________________________________________________________
- 📂 Projetos
+
+____________________________________________________________________
+📂 Projetos
 
 🔹 Sistema de Hamburgueria  
-🔹 Convite de casamento 
+🔹 Convite de Casamento  
 🔹 Sistema Financeiro  
 🔹 Projetos Java Desktop  
-________________________________________________________________________________________________________________________________________
+
+____________________________________________________________________
 📫 Contato
 
 <a href="https://www.linkedin.com/in/wigner-f-b78b52272" target="_blank">
@@ -54,10 +57,11 @@ ________________________________________________________________________________
 <a href="mailto:wignerpires@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-________________________________________________________________________________________________________________________________________
+
+____________________________________________________________________
 
 <div align="center">
 
-![Snake animation](https://github.com/wignerpires/wignerpires/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/wignerpires/wignerpires/output/github-contribution-grid-snake.svg)
 
 </div>
