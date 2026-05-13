@@ -35,4 +35,7 @@ ________________________________________________________________________________
 </div>
 _____________________________________________________________________________________________________________________________________________
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do Wigner">
+</div>
+_____________________________________________________________________________________________________________________________________________
