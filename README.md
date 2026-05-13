@@ -10,27 +10,10 @@ ____________________________________________________________________
 ____________________________________________________________________
 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="Java" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="MySQL" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="Git" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="GitHub" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-<img align="center" alt="HTML" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-</div>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ____________________________________________________________________
 📂 Projetos
