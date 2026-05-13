@@ -1,6 +1,6 @@
 # Olá, eu sou Wigner Felipe Pires 👋
 ____________________________________________________________________
-🚀 Sobre mim
+🚀 **Sobre mim**
 
 💻 Desenvolvedor Java em formação  
 📚 Estudando Java, MySQL, Swing e Desenvolvimento Full Stack  
@@ -8,7 +8,7 @@ ____________________________________________________________________
 📍 Paraná - Brasil
 
 ____________________________________________________________________
-🛠️ Tecnologias
+🛠️ **Tecnologias**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,8 +23,8 @@ ____________________________________________________________________
 * [💰 Sistema Financeiro](link-do-seu-repositorio-aqui)
 
 ____________________________________________________________________
-📫 Contato
-
+📫 **Contato** 
+<p align="center"> 
 <a href="https://www.linkedin.com/in/wigner-f-b78b52272" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -32,5 +32,5 @@ ____________________________________________________________________
 <a href="mailto:wignerpires@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
+</p>
 ____________________________________________________________________
