@@ -27,15 +27,12 @@ ____________________________________________________________________
 * [💍 Convite de Casamento](link-do-seu-repositorio-aqui)
 * [💰 Sistema Financeiro](link-do-seu-repositorio-aqui)
 
-___________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________
 📫 **Contato** 
-<p align="center"> 
-<a href="https://www.linkedin.com/in/wigner-f-b78b52272" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:wignerpires@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-</p>
+<div align="center">
+  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:wignerpires@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 _____________________________________________________________________________________________________________________________________________
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=dark&hide_border=true)
