@@ -24,7 +24,7 @@ ____________________________________________________________________
 📂 **Projetos**
 
 * [🍔 Sistema de Hamburgueria](link-do-seu-repositorio-aqui)
-* [💍 Convite de Casamento]((link-do-seu-repositorio-aqui)
+* [💍 Convite de Casamento](link-do-seu-repositorio-aqui)
 * [💰 Sistema Financeiro](link-do-seu-repositorio-aqui)
 
 ______________________________________________________________________________________________________________________________________________
