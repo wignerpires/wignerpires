@@ -23,9 +23,7 @@ ____________________________________________________________________
 ____________________________________________________________________
 📂 **Projetos**
 
-* [🍔 Sistema de Hamburgueria](link-do-seu-repositorio-aqui)
 * [💍 Convite de Casamento](https://github.com/wignerpires/Convite-de-casamento)
-* [💰 Sistema Financeiro](link-do-seu-repositorio-aqui)
 
 ______________________________________________________________________________________________________________________________________________
 📫 **Contato** 
