@@ -32,8 +32,3 @@ ________________________________________________________________________________
   <a href="mailto:wignerpires@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 _____________________________________________________________________________________________________________________________________________
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wignerpires&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do Wigner">
-</div>
-_____________________________________________________________________________________________________________________________________________
